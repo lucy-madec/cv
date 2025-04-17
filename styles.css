@@ -242,6 +242,26 @@ header h1 {
     color: #555;
 }
 
+.experience-item ul {
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.experience-item ul li {
+    margin-bottom: 5px;
+    position: relative;
+}
+
+.project-list {
+    margin-top: 10px;
+}
+
+.location {
+    font-size: 0.9rem;
+    color: #555;
+}
+
 /* Interests section */
 .interests-container {
     display: flex;
